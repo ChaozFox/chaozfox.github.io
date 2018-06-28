@@ -1,6 +1,12 @@
-body {margin: 0px}
+body {
+    margin: 0px
+}
+
+html, body, .row, .column {
+    height: 100%;
+}
+
 .column {
-    height: 700px;
     float: left;
 }
 
