@@ -26,3 +26,8 @@ html, body, .row, .column {
     text-align: center;
     font-size: 50px;
 }       
+
+ p {
+     text-align: center;
+     font-family: "ubuntu";
+}
