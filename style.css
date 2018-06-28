@@ -33,6 +33,7 @@ html, body, .row, .column {
  p {
      text-align: center;
      font-family: "ubuntu";
+     cursor: pointer;
 }
 
 img {
