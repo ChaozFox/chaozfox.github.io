@@ -27,6 +27,7 @@ html, body, .row, .column {
     font-family: "ubuntu";
     text-align: center;
     font-size: 50px;
+     cursor: not-allowed;
 }       
 
  p {
