@@ -20,6 +20,8 @@ html, body, .row, .column {
     background-color:lightgray;
 }
  h1 {
+    border-bottom: 5px solid black;
+    margin: 50px 500px;
     font-family: "ubuntu";
     text-align: center;
     font-size: 50px;
