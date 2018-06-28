@@ -11,6 +11,7 @@ html, body, .row, .column {
 }
 
 .left {
+    text-align: center;
     width: 15%;
     background-color:gray;
 }
@@ -30,4 +31,9 @@ html, body, .row, .column {
  p {
      text-align: center;
      font-family: "ubuntu";
+}
+
+img {
+    margin-top: 55px;
+    
 }
